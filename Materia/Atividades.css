@@ -93,3 +93,6 @@ body{
 #atv2{
     flex-flow: row-reverse nowrap;
 }
+p a{
+    color: #FFC857;
+}
